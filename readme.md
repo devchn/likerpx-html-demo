@@ -1,4 +1,4 @@
-[likerpx](https://github.com/devchn/likerpx)
+[likerpx](https://github.com/devchn/likerpx) 库例子代码
 
 # 在普通 html 项目上使用 likerpx
 
