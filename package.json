@@ -1,0 +1,13 @@
+{
+  "name": "likerpx-html-demo",
+  "version": "1.0.0",
+  "description": "在普通 html 项目上使用 likerpx 的例子",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "likerpx"
+  ],
+  "dependencies": {
+    "likerpx": "^1.1.10"
+  }
+}
